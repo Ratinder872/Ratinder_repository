@@ -1,0 +1,8 @@
+total number of models=3
+voice emotions detection   
+screen time
+image recognisation   
+
+
+
+
